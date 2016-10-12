@@ -5,7 +5,7 @@
    "browser_action": {
       "default_icon": "icons/work_pending.png"
    },
-   "description": "Помидорный таймер для одноименной тайм-менеджментской техники. Настройка режимов работы и отдыха, блокировка отвлекающих сайтов.",
+   "description": "Таймер, позволяющий вам длительное время поддерживать хорошую работоспособность. В основе своей использует технику помидора",
    "icons": {
       "128": "icons/icon128.png",
       "16": "icons/icon16.png",
@@ -16,7 +16,6 @@
    "name": "Строгий Помидор",
    "options_page": "options.html",
    "permissions": [ "notifications", "tabs", "\u003Call_urls>" ],
-   "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0",
+   "version": "1.1",
    "web_accessible_resources": [ "icons/work_full.png", "icons/break_full.png" ]
 }
